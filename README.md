@@ -1,6 +1,6 @@
 #  Hi, I'm Sanny
 
-🎯 **Android Engineer | Mobile UI/UX Enthusiast | Automation Developer**
+🎯 **Android Engineer | UI/UX Enthusiast | Automation Developer**
 
  Passionate about crafting smooth, scalable, and beautiful mobile apps.  
 I enjoy building seamless Android experiences using **Jetpack Compose**, integrating data intelligently, and exploring ways to automate performance tracking.
@@ -8,22 +8,22 @@ I enjoy building seamless Android experiences using **Jetpack Compose**, integra
 ---
 
 ### ⚙️ What I’m Currently Building
-- 🚗 **Ride-hailing and logistics UIs** with **Jetpack Compose** and multi-state bottom sheets  
-- 📊 **Trade journaling and automation tools** using **Google Apps Script + Sheets**  
-- ⚡ **Real-time mobile analytics dashboards** and performance trackers  
-- 🧩 Experimenting with **SolidJS** for web-based prototypes
+- **Ride-hailing and logistics UIs** with **Jetpack Compose** and multi-state bottom sheets  
+- **Trade journaling and automation tools** using **Google Apps Script + Sheets**  
+- **Real-time mobile analytics dashboards** and performance trackers  
+- Experimenting with **SolidJS** for web-based prototypes
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 | Category | Tools |
 |-----------|-------|
-| 💬 Languages | Kotlin / Java / JavaScript / TypeScript |
-| 📱 Mobile | Jetpack Compose / Android Studio / Material 3 |
-| 🧩 Frontend | SolidJS / React / Tailwind |
-| ⚙️ Backend & Automation | Firebase / Google Apps Script / Node.js |
-| 🗄️ Data | Firestore / Supabase / Google Sheets |
+| Languages | Kotlin / Java / JavaScript / TypeScript |
+| Mobile | Jetpack Compose / Android Studio / Material 3 |
+| Frontend | SolidJS / React / Tailwind |
+| Backend & Automation | Firebase / Google Apps Script / Node.js |
+| Data | Firestore / Supabase / Google Sheets |
 
 ---
 
@@ -39,11 +39,6 @@ I enjoy building seamless Android experiences using **Jetpack Compose**, integra
 
 ---
 
-### 🔥 Streaks & Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanny08banny&theme=tokyonight&hide_border=true)
-
----
 
 ### 🌍 Connect with Me
 
@@ -51,19 +46,6 @@ I enjoy building seamless Android experiences using **Jetpack Compose**, integra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanny08banny)
 [![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanny08banny@gmail.com)
 
----
-
-### 🧭 Quick Stats
-![Profile Views](https://komarev.com/ghpvc/?username=sanny08banny&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/sanny08banny?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/sanny08banny?style=social)
-
----
 
 ### 🧠 Fun Fact
-> “A smooth animation and a single line of clean Kotlin can say more than 1000 lines of legacy XML.”
-
----
-
-⭐️ *Pinned Projects:*  
-> Check out my repositories for Android UI experiments, Compose samples, and mobile automation tools.
+> “No cap, a smooth animation and a single line of clean Kotlin can say more than 1000 lines of legacy XML.”
