@@ -1,16 +1,69 @@
-## Hi there 👋
+#  Hi, I'm Sanny
 
-<!--
-**sanny08banny/sanny08banny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Android Engineer | Mobile UI/UX Enthusiast | Automation Developer**
 
-Here are some ideas to get you started:
+ Passionate about crafting smooth, scalable, and beautiful mobile apps.  
+I enjoy building seamless Android experiences using **Jetpack Compose**, integrating data intelligently, and exploring ways to automate performance tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ What I’m Currently Building
+- 🚗 **Ride-hailing and logistics UIs** with **Jetpack Compose** and multi-state bottom sheets  
+- 📊 **Trade journaling and automation tools** using **Google Apps Script + Sheets**  
+- ⚡ **Real-time mobile analytics dashboards** and performance trackers  
+- 🧩 Experimenting with **SolidJS** for web-based prototypes
+
+---
+
+### 🧰 Tech Stack
+
+| Category | Tools |
+|-----------|-------|
+| 💬 Languages | Kotlin / Java / JavaScript / TypeScript |
+| 📱 Mobile | Jetpack Compose / Android Studio / Material 3 |
+| 🧩 Frontend | SolidJS / React / Tailwind |
+| ⚙️ Backend & Automation | Firebase / Google Apps Script / Node.js |
+| 🗄️ Data | Firestore / Supabase / Google Sheets |
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanny08banny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+---
+
+### 🔤 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanny08banny&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🔥 Streaks & Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanny08banny&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌍 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanny08banny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanny08banny)
+[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanny08banny@gmail.com)
+
+---
+
+### 🧭 Quick Stats
+![Profile Views](https://komarev.com/ghpvc/?username=sanny08banny&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/sanny08banny?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/sanny08banny?style=social)
+
+---
+
+### 🧠 Fun Fact
+> “A smooth animation and a single line of clean Kotlin can say more than 1000 lines of legacy XML.”
+
+---
+
+⭐️ *Pinned Projects:*  
+> Check out my repositories for Android UI experiments, Compose samples, and mobile automation tools.
