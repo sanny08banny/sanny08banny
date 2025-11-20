@@ -1,4 +1,4 @@
-#  Hi, I'm Sanny
+#  Hi, I'm Sam
 
 🎯 **Android Engineer | UI/UX Enthusiast | Automation Developer**
 
