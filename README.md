@@ -1,13 +1,12 @@
 #  Hi, I'm Sam
 
-🎯 **Android Engineer | UI/UX Enthusiast | Automation Developer**
+**Android Engineer | UI/UX Enthusiast | Golang Developer**
 
  Passionate about crafting smooth, scalable, and beautiful mobile apps.  
-I enjoy building seamless Android experiences using **Jetpack Compose**, integrating data intelligently, and exploring ways to automate performance tracking.
+I enjoy building seamless Android experiences , integrating data intelligently, and exploring ways to automate performance tracking.
 
 
 ### 🔤 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanny08banny&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🧠 Fun Fact
